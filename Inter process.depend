@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1709212299 source:c:\users\jéssica carvalho\desktop\inter process\tasks.c
+	<stdio.h>
+
+1709213401 source:c:\users\jéssica carvalho\desktop\inter process\tasks2.c
+	<stdio.h>
+
+1709214256 source:c:\users\jéssica carvalho\desktop\inter process\tasks3.c
+	<stdio.h>
+	<stdlib.h>
+
